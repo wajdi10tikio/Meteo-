@@ -35,7 +35,7 @@ function App() {
 
               </div>
 
-        <div className='top'>
+        <div className='top' id="section 1">
           <div className='location'>
             <p>{data.name}</p>
           </div>
